@@ -5,7 +5,7 @@ beforeEach(() => {
 })
 
 context("trying new context", () => {
-    specify("First Tests123", () => {
+]    specify("First Tests123", () => {
         cy.visit("https://www.airbnb.co.nz")
         cy.log("First Test is running")
     })
